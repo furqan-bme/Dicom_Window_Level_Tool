@@ -4,7 +4,7 @@
 
 # Interactive DICOM Window/Level Viewer with Histogram
 
-Welcome to my interactive DICOM viewer\! This project is a focused tool designed to help medical imaging enthusiasts, students, and professionals easily explore individual DICOM images. Beyond just displaying the image, it provides dynamic control over **Window Center (WC)** and **Window Width (WW)**, along with a real-time **histogram** that visually illustrates how these settings impact the displayed intensity range.
+Welcome to my interactive DICOM viewer\! This project is a focused tool designed to help medical imaging enthusiasts,like myself, easily explore individual DICOM images. Beyond just displaying the image, it provides dynamic control over **Window Center (WC)** and **Window Width (WW)**, along with a real-time **histogram** that visually illustrates how these settings impact the displayed intensity range.
 
 I built this as part of my journey in biomedical engineering, specifically to deepen my understanding of DICOM data visualization and the critical role of windowing in medical image analysis. It leverages `pydicom` for robust DICOM parsing and `Matplotlib` for powerful, interactive plotting.
 
@@ -103,9 +103,3 @@ While this is a complete functional viewer, here are a few ideas for potential f
 ## Contribution
 
 If you have any suggestions or find areas for improvement, I'm always open to feedback\! This project is a learning exercise, and collaboration makes it even better.
-
------
-
-## License
-
-This project is open-source and available under the [MIT License](https://www.google.com/search?q=LICENSE).
